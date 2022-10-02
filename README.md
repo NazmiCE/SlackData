@@ -10,3 +10,6 @@ The fourth and final one is thread_reactions.csv which contains thread_ts, paren
 
 Since we don't have exact threads for each day. Extracting reactions for a spesific day may cause error. To solve this problem
 I have used try and catch methods, but by doing that I may lost some information so a better organization should be implemented.
+
+
+I cannot share the data due to privacy.
